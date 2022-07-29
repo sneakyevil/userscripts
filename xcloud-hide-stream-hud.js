@@ -9,8 +9,6 @@
 // @include      https://www.xbox.com/*/play/launch/*/*
 // ==/UserScript==
 
-//document.getElementById('StreamHUD')
-
 var m_StreamHud = null;
 
 setInterval(function()
